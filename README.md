@@ -97,18 +97,6 @@ A mini banking system that simulates core financial operations.
 
 </div>
 
----
-
-## 🎯 Goals 2025 – 2027
-
-* [x] Build SmartBank with Spring Boot + Spring Security + JWT
-* [ ] Strengthen knowledge in System Design & Advanced Databases
-* [ ] Solve 100+ LeetCode Easy/Medium problems (NeetCode roadmap)
-* [ ] Build second project: **Loan Management System**
-* [ ] Secure a **Java Backend Intern** offer in fintech/banking (Summer 2027)
-
----
-
 ## 📬 Contact
 
 I’m always open to connecting and discussing Java, Spring Boot, or backend development!
