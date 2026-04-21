@@ -15,7 +15,7 @@
 
 I am a second-year student majoring in **Information Technology** at **University of Science – VNU-HCM**, with a strong focus on **Java Backend Development** in the financial and banking domain.
 
-I have experience building RESTful APIs using **Spring Boot**, implementing **Spring Security + JWT**, and designing systems following **Layered Architecture** combined with **SOLID Principles**. My short-term goal is to secure a **Java Backend Intern** position at leading fintech companies in Vietnam by Summer 2027.
+I have hands-on experience building **RESTful APIs** using **Spring Boot**, implementing **authentication and authorization** with **Spring Security + JWT**, and designing systems based on **Layered Architecture** combined with **SOLID principles**. I am currently seeking a **Java Backend Intern** position to gain **real-world experience** and further improve my **backend development skills**.
 
 ---
 
