@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hi there, I'm Nguyen Le Duc Nhat
+# Hi there, I'm Nguyen Le Duc Nhat
 
-### Java Backend Developer · Fintech Enthusiast · VNU-HCMUS
+### Java Backend Developer · VNU-HCMUS
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/nhat-nguyen-spring)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/NguyenNhatUS)
@@ -12,17 +12,15 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 I am a second-year student majoring in **Information Technology** at **University of Science – VNU-HCM**, with a strong focus on **Java Backend Development** in the financial and banking domain.
 
 I have experience building RESTful APIs using **Spring Boot**, implementing **Spring Security + JWT**, and designing systems following **Layered Architecture** combined with **SOLID Principles**. My short-term goal is to secure a **Java Backend Intern** position at leading fintech companies in Vietnam by Summer 2027.
 
-> 💡 *"Build things that work correctly, then make them work efficiently."*
-
 ---
 
-## 🎓 Education
+## Education
 
 | School    | Major                  | Duration    | GPA            |
 | --------- | ---------------------- | ----------- | -------------- |
@@ -30,7 +28,7 @@ I have experience building RESTful APIs using **Spring Boot**, implementing **Sp
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 
@@ -62,7 +60,7 @@ I have experience building RESTful APIs using **Spring Boot**, implementing **Sp
 
 ---
 
-## 🚀 Featured Project
+## Featured Project
 
 ### 🏦 [SmartBank – Mini Banking System](https://github.com/NguyenNhatUS)
 
@@ -78,16 +76,16 @@ A mini banking system that simulates core financial operations.
 
 ---
 
-## 🏆 Achievements & Certifications
+## Achievements & Certifications
 
 | Achievement                                               | Year |
 | --------------------------------------------------------- | ---- |
-| 📜 TOEIC Listening & Reading: **810 / 990**               | 2026 |
-| 🥈 Second Prize – Provincial Math Competition (Quang Tri) | 2024 |
+| TOEIC Listening & Reading: **810 / 990**               | 2026 |
+| Second Prize – Provincial Math Competition (Quang Tri) | 2024 |
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -97,20 +95,18 @@ A mini banking system that simulates core financial operations.
 
 </div>
 
-## 📬 Contact
+## Contact
 
 I’m always open to connecting and discussing Java, Spring Boot, or backend development!
 
-* 📧 **Email:** [nldnhat182006@gmail.com](mailto:nldnhat182006@gmail.com)
-* 💼 **LinkedIn:** [linkedin.com/in/nhat-nguyen-spring](https://linkedin.com/in/nhat-nguyen-spring)
-* 📍 **Location:** Thu Duc, Ho Chi Minh City
+* **Email:** [nldnhat182006@gmail.com](mailto:nldnhat182006@gmail.com)
+* **LinkedIn:** [linkedin.com/in/nhat-nguyen-spring](https://linkedin.com/in/nhat-nguyen-spring)
+* **Location:** Thu Duc, Ho Chi Minh City
 
 ---
 
 <div align="center">
 
-*⭐ If you find my projects helpful, feel free to give them a star!*
-
-![Profile Views](https://komarev.com/ghpvc/?username=NguyenNhatUS\&color=6DB33F\&style=flat-square)
+*If you find my projects helpful, feel free to give them a star!*
 
 </div>
