@@ -61,7 +61,7 @@ I have hands-on experience building **RESTful APIs** using **Spring Boot**, impl
 
 ## Featured Project
 
-### 🏦 [SmartBank – Mini Banking System](https://github.com/NguyenNhatUS)
+### 🏦 [SmartBank – Mini Banking System](https://github.com/NguyenNhatUS/SmartBank)
 
 > *Mar 2026 – Apr 2026 · Spring Boot · Spring Security · JWT · MySQL*
 
