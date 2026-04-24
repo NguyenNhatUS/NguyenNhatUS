@@ -53,6 +53,11 @@ I have hands-on experience building **RESTful APIs** using **Spring Boot**, impl
 ![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=flat-square\&logo=junit5\&logoColor=white)
 ![Mockito](https://img.shields.io/badge/Mockito-25A162?style=flat-square\&logoColor=white)
 
+### DevOps & Caching
+
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square\&logo=redis\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+
 ### Architecture & Design
 
 `REST API Design` · `SOLID Principles` · `Layered Architecture` · `RBAC`
