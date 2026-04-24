@@ -72,8 +72,8 @@ A mini banking system that simulates core financial operations.
 * **Spring Data JPA** with a schema of 5+ entities, supporting efficient CRUD operations and relationship mapping.
 * **GlobalExceptionHandler** standardizing API responses for 10+ custom exception scenarios.
 * **25+ unit test cases** using JUnit & Mockito, achieving ~75–80% test coverage for core business logic.
-* **Integrated Redis caching to improve performance for frequently accessed data and reduce database load.
-* **Containerized the application with Docker and provided a docker-compose setup, enabling one-command startup using docker-compose up --build.
+* **Integrated Redis caching** to improve performance for frequently accessed data and reduce database load.
+* **Containerized the application with Docker** and provided a docker-compose setup, enabling one-command startup using **docker-compose up --build**.
 
 ---
 
