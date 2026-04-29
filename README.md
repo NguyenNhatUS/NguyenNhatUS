@@ -86,7 +86,6 @@ A mini banking system that simulates core financial operations.
 | Achievement                                               | Year |
 | --------------------------------------------------------- | ---- |
 | TOEIC Listening & Reading: **810 / 990**               | 2026 |
-| Second Prize – Provincial Math Competition (Quang Tri) | 2024 |
 
 ---
 
