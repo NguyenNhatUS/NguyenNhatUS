@@ -20,11 +20,10 @@
 
 I'm a **2nd-year CS student** at **VNU-HCM University of Science**, specializing in **Java Backend Development** for the **financial & banking domain**.
 
-- 🎯 Targeting a **Java Backend Internship** in summer 2026 at Fintech companies
-- 🏦 Focused on building **secure, scalable REST APIs** with Spring Boot
-- ⚡ Currently exploring **Message Queues (Kafka, RabbitMQ)**, **Docker**, and **distributed systems**
-- 📚 GPA **3.62 / 4.0** — consistently pushing toward excellence
-
+- Focused on building **secure, scalable REST APIs** with Spring Boot
+- Currently exploring **Message Queues (Kafka, RabbitMQ)**, **Docker**, and **distributed systems**
+- GPA **3.62 / 4.0** — consistently pushing toward excellence
+- TOEIC **810 / 990** — able to read technical documentation in English
 ---
 
 ## 🛠️ Tech Stack
@@ -55,7 +54,7 @@ I'm a **2nd-year CS student** at **VNU-HCM University of Science**, specializing
 
 ---
 
-## 🚀 Featured Project
+## Featured Project
 
 <table>
   <tr>
@@ -71,17 +70,17 @@ A production-style mini banking backend simulating core financial operations:
 
 | Feature | Detail |
 |---|---|
-| 🔗 **REST API** | 15+ endpoints — customer management, accounts, transfers |
-| 🔐 **Security** | Spring Security + JWT with **Refresh Token Rotation** & RBAC |
-| 🗄️ **Data Layer** | Spring Data JPA · 5+ entities · relationship mapping |
-| ⚠️ **Error Handling** | `GlobalExceptionHandler` · 10+ custom exception types |
-| ✅ **Testing** | 25+ unit tests with JUnit & Mockito · ~75–80% core coverage |
-| ⚡ **Caching** | Redis integration for high-frequency read operations |
-| 🐳 **DevOps** | Docker + docker-compose · one-command startup |
+|  **REST API** | 15+ endpoints — customer management, accounts, transfers |
+|  **Security** | Spring Security + JWT with **Refresh Token Rotation** & RBAC |
+|  **Data Layer** | Spring Data JPA · 5+ entities · relationship mapping |
+|  **Error Handling** | `GlobalExceptionHandler` · 10+ custom exception types |
+|  **Testing** | 25+ unit tests with JUnit & Mockito · ~75–80% core coverage |
+|  **Caching** | Redis integration for high-frequency read operations |
+|  **DevOps** | Docker + docker-compose · one-command startup |
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -91,12 +90,6 @@ A production-style mini banking backend simulating core financial operations:
 </div>
 
 ---
-
-## 🏅 Certifications
-
-| Certification | Score | Year |
-|---|---|---|
-| TOEIC Listening & Reading | **810 / 990** | 2026 |
 
 ---
 
