@@ -16,7 +16,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a **2nd-year CS student** at **VNU-HCM University of Science**, specializing in **Java Backend Development** for the **financial & banking domain**.
 
@@ -26,7 +26,7 @@ I'm a **2nd-year CS student** at **VNU-HCM University of Science**, specializing
 - TOEIC **810 / 990** — able to read technical documentation in English
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Core
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
