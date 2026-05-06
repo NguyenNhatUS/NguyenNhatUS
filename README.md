@@ -1,116 +1,109 @@
 <div align="center">
 
-# Hi there, I'm Nguyen Le Duc Nhat
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Nguyen%20Le%20Duc%20Nhat&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Java%20Backend%20Developer%20·%20VNU-HCMUS&descSize=16&descAlignY=58&animation=fadeIn" width="100%" />
 
-### Java Backend Developer · VNU-HCMUS
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/nhat-nguyen-spring)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&lines=Building+robust+banking+backends+%F0%9F%8F%A6;Spring+Boot+%7C+Spring+Security+%7C+JWT;Passionate+about+Fintech+%26+Clean+Architecture)](https://git.io/typing-svg)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nhat-nguyen-spring)
+[![Email](https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nldnhat182006@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NguyenNhatUS)
 
 </div>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-I am a second-year student majoring in **Information Technology** at **University of Science – VNU-HCM**, with a strong focus on **Java Backend Development** in the financial and banking domain.
+I'm a **2nd-year CS student** at **VNU-HCM University of Science**, specializing in **Java Backend Development** for the **financial & banking domain**.
 
-I have hands-on experience building **RESTful APIs** using **Spring Boot**, implementing **authentication and authorization** with **Spring Security + JWT**, and designing systems based on **Layered Architecture** combined with **SOLID principles**. I am currently seeking a **Java Backend Intern** position to gain **real-world experience** and further improve my **backend development skills**.
-
----
-
-## Education
-
-| School    | Major                  | Duration    | GPA            |
-| --------- | ---------------------- | ----------- | -------------- |
-| VNU-HCMUS | Information Technology | 2024 – 2028 | **3.62 / 4.0** |
+- 🎯 Targeting a **Java Backend Internship** in summer 2026 at Fintech companies
+- 🏦 Focused on building **secure, scalable REST APIs** with Spring Boot
+- ⚡ Currently exploring **Message Queues (Kafka, RabbitMQ)**, **Docker**, and **distributed systems**
+- 📚 GPA **3.62 / 4.0** — consistently pushing toward excellence
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-### Languages
+### Core
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
+### Database & Caching
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-### Backend
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square\&logo=springboot\&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square\&logo=springsecurity\&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square\&logo=hibernate\&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square\&logo=jsonwebtokens\&logoColor=white)
-
-### Database & Tools
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square\&logo=postman\&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square\&logo=intellijidea\&logoColor=white)
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
 
 ### Testing
+![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-25A162?style=flat-square&logoColor=white)
 
-![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=flat-square\&logo=junit5\&logoColor=white)
-![Mockito](https://img.shields.io/badge/Mockito-25A162?style=flat-square\&logoColor=white)
-
-### DevOps & Caching
-
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square\&logo=redis\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
-
-### Architecture & Design
-
-`REST API Design` · `SOLID Principles` · `Layered Architecture` · `RBAC`
+### Design Principles
+`REST API Design` · `SOLID Principles` · `Layered Architecture` · `RBAC` · `Clean Code`
 
 ---
 
-## Featured Project
+## 🚀 Featured Project
 
-### 🏦 [SmartBank – Mini Banking System](https://github.com/NguyenNhatUS/SmartBank)
+<table>
+  <tr>
+    <td width="60px" align="center">🏦</td>
+    <td>
+      <strong><a href="https://github.com/NguyenNhatUS/SmartBank">SmartBank – Mini Banking System</a></strong><br/>
+      <sub>Spring Boot · Spring Security · JWT · MySQL · Redis · Docker</sub>
+    </td>
+  </tr>
+</table>
 
-> *Mar 2026 – Apr 2026 · Spring Boot · Spring Security · JWT · MySQL*
+A production-style mini banking backend simulating core financial operations:
 
-A mini banking system that simulates core financial operations.
-
-* **15+ REST APIs** covering customer management, accounts, and money transfers — following RESTful best practices in request/response design and HTTP status handling.
-* **Spring Security + JWT** securing 100% of protected endpoints, with RBAC integration and **Refresh Token Rotation** to detect and invalidate stolen or reused tokens.
-* **Spring Data JPA** with a schema of 5+ entities, supporting efficient CRUD operations and relationship mapping.
-* **GlobalExceptionHandler** standardizing API responses for 10+ custom exception scenarios.
-* **25+ unit test cases** using JUnit & Mockito, achieving ~75–80% test coverage for core business logic.
-* **Integrated Redis caching** to improve performance for frequently accessed data and reduce database load.
-* **Containerized the application with Docker** and provided a docker-compose setup, enabling one-command startup using **docker-compose up --build**.
+| Feature | Detail |
+|---|---|
+| 🔗 **REST API** | 15+ endpoints — customer management, accounts, transfers |
+| 🔐 **Security** | Spring Security + JWT with **Refresh Token Rotation** & RBAC |
+| 🗄️ **Data Layer** | Spring Data JPA · 5+ entities · relationship mapping |
+| ⚠️ **Error Handling** | `GlobalExceptionHandler` · 10+ custom exception types |
+| ✅ **Testing** | 25+ unit tests with JUnit & Mockito · ~75–80% core coverage |
+| ⚡ **Caching** | Redis integration for high-frequency read operations |
+| 🐳 **DevOps** | Docker + docker-compose · one-command startup |
 
 ---
 
-## Achievements & Certifications
-
-| Achievement                                               | Year |
-| --------------------------------------------------------- | ---- |
-| TOEIC Listening & Reading: **810 / 990**               | 2026 |
-
----
-
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NguyenNhatUS&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenNhatUS&layout=compact&theme=tokyonight&hide_border=true)
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=NguyenNhatUS&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenNhatUS&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 
 </div>
 
-## Contact
+---
 
-I’m always open to connecting and discussing Java, Spring Boot, or backend development!
+## 🏅 Certifications
 
-* **Email:** [nldnhat182006@gmail.com](mailto:nldnhat182006@gmail.com)
-* **LinkedIn:** [linkedin.com/in/nhat-nguyen-spring](https://linkedin.com/in/nhat-nguyen-spring)
-* **Location:** Thu Duc, Ho Chi Minh City
+| Certification | Score | Year |
+|---|---|---|
+| TOEIC Listening & Reading | **810 / 990** | 2026 |
 
 ---
 
 <div align="center">
 
-*If you find my projects helpful, feel free to give them a star!*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
+
+*Open to Java Backend Intern opportunities — let's connect!*
 
 </div>
