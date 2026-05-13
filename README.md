@@ -16,7 +16,7 @@
 
 ## About Me
 
-I'm a **2nd-year CS student** at **VNU-HCM University of Science**, specializing in **Java Backend Development** for the **financial & banking domain**.
+I'm a **2nd-year SE student** at **VNU-HCM University of Science**, specializing in **Java Backend Development** for the **financial & banking domain**.
 
 - Focused on building **secure, scalable REST APIs** with Spring Boot
 - Currently exploring **Message Queues (Kafka, RabbitMQ)**, **Docker**, and **distributed systems**
