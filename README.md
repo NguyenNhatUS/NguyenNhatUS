@@ -68,7 +68,7 @@ A production-style mini banking backend simulating core financial operations:
 
 | Feature | Detail |
 |---|---|
-|  **REST API** | 15+ endpoints — customer management, accounts, transfers |
+|  **REST API** | 25+ endpoints — customer management, accounts, transfers |
 |  **Security** | Spring Security + JWT with **Refresh Token Rotation** & RBAC |
 |  **Data Layer** | Spring Data JPA · 5+ entities · relationship mapping |
 |  **Error Handling** | `GlobalExceptionHandler` · 10+ custom exception types |
