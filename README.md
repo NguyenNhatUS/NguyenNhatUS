@@ -16,12 +16,14 @@
 
 ## About Me
 
-I'm a **2nd-year SE student** at **VNU-HCM University of Science**, specializing in **Java Backend Development** for the **financial & banking domain**.
+I'm a **3rd-year SE student** at **VNU-HCM University of Science**, specializing in **Java Backend Development** for the **financial & banking domain**.
 
 - Focused on building **secure, scalable REST APIs** with Spring Boot
 - Currently exploring **Message Queues (Kafka, RabbitMQ)**, **Docker**, and **distributed systems**
-- GPA **3.62 / 4.0** — consistently pushing toward excellence
-- TOEIC **810 / 990** — able to read technical documentation in English
+- GPA **3.54 / 4.0** — consistently pushing toward excellence
+- TOEIC LR **810 / 990** — able to read technical documentation in English
+- TOEIC SW **310 / 400** — able to communicate in English at a basic level
+
 ---
 
 ## Tech Stack
