@@ -29,11 +29,13 @@ I'm a **3rd-year SE student** at **VNU-HCM University of Science**, specializing
 ## Tech Stack
 
 ### Core
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![Java](https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security_6-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate_ORM-59666C?style=flat-square&logo=hibernate&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth_2.0-4285F4?style=flat-square&logo=google&logoColor=white)
+![MapStruct](https://img.shields.io/badge/MapStruct-FFA500?style=flat-square&logo=mapstruct&logoColor=white)
 
 ### Database & Caching
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -47,14 +49,38 @@ I'm a **3rd-year SE student** at **VNU-HCM University of Science**, specializing
 
 ### Testing
 ![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white)
-![Mockito](https://img.shields.io/badge/Mockito-25A162?style=flat-square&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-25A162?style=flat-square&logo=white)
 
-### Design Principles
-`REST API Design` · `SOLID Principles` · `Layered Architecture` · `RBAC` · `Clean Code`
+### Design Principles & Best Practices
+`RESTful API Design` · `Resource-Based Authorization` · `RBAC` · `N+1 Query Prevention (@EntityGraph)` · `Cache-Aside Pattern` · `Rate Limiting` · `SOLID Principles` · `Clean Architecture`
 
 ---
 
-## Featured Project
+## Featured Projects
+
+<table>
+  <tr>
+    <td width="60px" align="center">💰</td>
+    <td>
+      <strong><a href="https://github.com/NguyenNhatUS/SharedBudgetManagement_Project">BudgetShare – Shared Budget & Expense Management System</a></strong><br/>
+      <sub>Java 21 · Spring Boot 3 · Spring Security 6 · Google OAuth2 · JWT · Redis · Spring Mail · MapStruct · MySQL</sub>
+    </td>
+  </tr>
+</table>
+
+A collaborative group budgeting and expense tracking backend with fine-grained authorization, caching, and async notifications:
+
+| Feature | Detail |
+|---|---|
+| **REST API Layer** | 30+ endpoints — budgets, member invitations, transactions, tags, financial stats (`PageResponse<T>`, URI versioning) |
+| **Security & OAuth2** | Spring Security 6 + JWT token rotation, Google OAuth2 social login (OIDC + Account Linking), Redis token blacklisting |
+| **Authorization** | Fine-grained **Resource-Based Authorization** (`@budgetSecurity`) with contextual roles (`OWNER`, `EDITOR`, `VIEWER`) |
+| **JPA & Performance** | Hibernate 7 · `@EntityGraph` & `batch_fetch_size` (zero N+1 queries) · MapStruct 1.6 compile-time mapping · Atomic transactions |
+| **Caching & Rate Limit** | Redis Cache-Aside for tags/summaries · Sliding-window rate limiting (`@RateLimit` + Redis Atomic Counter) |
+| **Async Mail & OTP** | Non-blocking HTML email dispatch (`@Async` ThreadPool) for budget invites (`inviteToken`) & OTP password reset (TTL 5m) |
+| **Automated Testing** | 127/127 unit tests with JUnit 5 & Mockito (100% passed) covering controllers, services, security, and cache |
+
+<br/>
 
 <table>
   <tr>
@@ -70,13 +96,13 @@ A production-style mini banking backend simulating core financial operations:
 
 | Feature | Detail |
 |---|---|
-|  **REST API** | 25+ endpoints — customer management, accounts, transfers |
-|  **Security** | Spring Security + JWT with **Refresh Token Rotation** & RBAC |
-|  **Data Layer** | Spring Data JPA · 5+ entities · relationship mapping |
-|  **Error Handling** | `GlobalExceptionHandler` · 10+ custom exception types |
-|  **Testing** | 25+ unit tests with JUnit & Mockito · ~75–80% core coverage |
-|  **Caching** | Redis integration for high-frequency read operations |
-|  **DevOps** | Docker + docker-compose · one-command startup |
+| **REST API** | 25+ endpoints — customer management, accounts, transfers |
+| **Security** | Spring Security + JWT with **Refresh Token Rotation** & RBAC |
+| **Data Layer** | Spring Data JPA · 5+ entities · relationship mapping |
+| **Error Handling** | `GlobalExceptionHandler` · 10+ custom exception types |
+| **Testing** | 25+ unit tests with JUnit & Mockito · ~75–80% core coverage |
+| **Caching** | Redis integration for high-frequency read operations |
+| **DevOps** | Docker + docker-compose · one-command startup |
 
 ---
 
