@@ -77,7 +77,6 @@ A collaborative group budgeting and expense tracking backend with fine-grained a
 | **Authorization** | Fine-grained **Resource-Based Authorization** (`@budgetSecurity`) with contextual roles (`OWNER`, `EDITOR`, `VIEWER`) |
 | **JPA & Performance** | Hibernate 7 · `@EntityGraph` & `batch_fetch_size` (zero N+1 queries) · MapStruct 1.6 compile-time mapping · Atomic transactions |
 | **Caching & Rate Limit** | Redis Cache-Aside for tags/summaries · Sliding-window rate limiting (`@RateLimit` + Redis Atomic Counter) |
-| **Async Mail & OTP** | Non-blocking HTML email dispatch (`@Async` ThreadPool) for budget invites (`inviteToken`) & OTP password reset (TTL 5m) |
 | **Automated Testing** | 127/127 unit tests with JUnit 5 & Mockito (100% passed) covering controllers, services, security, and cache |
 
 <br/>
