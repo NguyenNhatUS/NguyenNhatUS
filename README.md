@@ -57,30 +57,6 @@ I'm a **3rd-year SE student** at **VNU-HCM University of Science**, specializing
 ---
 
 ## Featured Projects
-
-<table>
-  <tr>
-    <td width="60px" align="center">💰</td>
-    <td>
-      <strong><a href="https://github.com/NguyenNhatUS/SharedBudgetManagement_Project">BudgetShare – Shared Budget & Expense Management System</a></strong><br/>
-      <sub>Java 21 · Spring Boot 3 · Spring Security 6 · Google OAuth2 · JWT · Redis · Spring Mail · MapStruct · MySQL</sub>
-    </td>
-  </tr>
-</table>
-
-A collaborative group budgeting and expense tracking backend with fine-grained authorization, caching, and async notifications:
-
-| Feature | Detail |
-|---|---|
-| **REST API Layer** | 30+ endpoints — budgets, member invitations, transactions, tags, financial stats (`PageResponse<T>`, URI versioning) |
-| **Security & OAuth2** | Spring Security 6 + JWT token rotation, Google OAuth2 social login (OIDC + Account Linking), Redis token blacklisting |
-| **Authorization** | Fine-grained **Resource-Based Authorization** (`@budgetSecurity`) with contextual roles (`OWNER`, `EDITOR`, `VIEWER`) |
-| **JPA & Performance** | Hibernate 7 · `@EntityGraph` & `batch_fetch_size` (zero N+1 queries) · MapStruct 1.6 compile-time mapping · Atomic transactions |
-| **Caching & Rate Limit** | Redis Cache-Aside for tags/summaries · Sliding-window rate limiting (`@RateLimit` + Redis Atomic Counter) |
-| **Automated Testing** | 127/127 unit tests with JUnit 5 & Mockito (100% passed) covering controllers, services, security, and cache |
-
-<br/>
-
 <table>
   <tr>
     <td width="60px" align="center">🏦</td>
